@@ -23,3 +23,33 @@
 
 - add a dependency on Azure
 <img src="/pictures/app_insight5.png" title="application insight azure"  width="900">
+
+- run the app
+
+- see the results in *Live Metrics*
+<img src="/pictures/app_insight6.png" title="application insight azure"  width="900">
+
+### Configuring Application Insight for Web App
+
+- create a Web App. Choose the resource for insights in *Monitoring*
+<img src="/pictures/web_app_insight.png" title="application insight web app"  width="900">
+
+- publish your web app and perform requests on it
+
+- see the results in *Live Metrics*
+<img src="/pictures/web_app_insight2.png" title="application insight web app"  width="500">
+
+### Configuring Application Insight - SQL dependency
+
+- create a web app linked to a SQL database
+<img src="/pictures/sql_app_insight.png" title="application insight sql"  width="900">
+
+- on the web app *Application Insights*, configure *SQL Commands*
+<img src="/pictures/sql_app_insight2.png" title="application insight sql"  width="900">
+
+- on the app, perform some requests
+
+- see the result on *Transaction search*
+<img src="/pictures/sql_app_insight3.png" title="application insight sql"  width="900">
+<img src="/pictures/sql_app_insight4.png" title="application insight sql"  width="900">
+<img src="/pictures/sql_app_insight5.png" title="application insight sql"  width="900">
