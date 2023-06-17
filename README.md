@@ -42,7 +42,7 @@
 ### Configuring Application Insight - SQL dependency
 
 - create a web app linked to a SQL database
-<img src="/pictures/sql_app_insight.png" title="application insight sql"  width="900">
+<img src="/pictures/sql_app_insight.png" title="application insight sql"  width="500">
 
 - on the web app *Application Insights*, configure *SQL Commands*
 <img src="/pictures/sql_app_insight2.png" title="application insight sql"  width="900">
@@ -53,3 +53,11 @@
 <img src="/pictures/sql_app_insight3.png" title="application insight sql"  width="900">
 <img src="/pictures/sql_app_insight4.png" title="application insight sql"  width="900">
 <img src="/pictures/sql_app_insight5.png" title="application insight sql"  width="900">
+
+
+## Users
+
+### Adding Authentication
+
+- create a new app registration
+<img src="/pictures/authentication.png" title="authentication"  width="900">
